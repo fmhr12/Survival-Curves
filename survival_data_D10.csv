@@ -1,0 +1,769 @@
+timeline,survival_probability,group,color,linestyle
+0.0,1.0,Low Risk - Unweighted,blue,solid
+1.0,0.9992907801418432,Low Risk - Unweighted,blue,solid
+2.0,0.9992907801418432,Low Risk - Unweighted,blue,solid
+3.0,0.9971278130852594,Low Risk - Unweighted,blue,solid
+4.0,0.9949601439263782,Low Risk - Unweighted,blue,solid
+5.0,0.993505523832919,Low Risk - Unweighted,blue,solid
+6.0,0.9920314800290126,Low Risk - Unweighted,blue,solid
+7.0,0.9920314800290126,Low Risk - Unweighted,blue,solid
+8.0,0.9912782290950505,Low Risk - Unweighted,blue,solid
+9.0,0.9905168786886794,Low Risk - Unweighted,blue,solid
+10.0,0.9905168786886794,Low Risk - Unweighted,blue,solid
+11.0,0.9905168786886794,Low Risk - Unweighted,blue,solid
+12.0,0.9889345833553107,Low Risk - Unweighted,blue,solid
+13.0,0.9889345833553107,Low Risk - Unweighted,blue,solid
+14.0,0.9881213147834721,Low Risk - Unweighted,blue,solid
+15.0,0.9881213147834721,Low Risk - Unweighted,blue,solid
+16.0,0.9881213147834721,Low Risk - Unweighted,blue,solid
+17.0,0.9864493667043115,Low Risk - Unweighted,blue,solid
+18.0,0.9856033552405855,Low Risk - Unweighted,blue,solid
+19.0,0.9847514940865315,Low Risk - Unweighted,blue,solid
+20.0,0.9838944431778396,Low Risk - Unweighted,blue,solid
+21.0,0.9838944431778396,Low Risk - Unweighted,blue,solid
+22.0,0.9838944431778396,Low Risk - Unweighted,blue,solid
+23.0,0.9838944431778396,Low Risk - Unweighted,blue,solid
+24.0,0.9829983644499908,Low Risk - Unweighted,blue,solid
+25.0,0.9829983644499908,Low Risk - Unweighted,blue,solid
+26.0,0.9829983644499908,Low Risk - Unweighted,blue,solid
+27.0,0.9829983644499908,Low Risk - Unweighted,blue,solid
+28.0,0.9829983644499908,Low Risk - Unweighted,blue,solid
+29.0,0.9811061635559583,Low Risk - Unweighted,blue,solid
+30.0,0.9791936759077011,Low Risk - Unweighted,blue,solid
+31.0,0.9791936759077011,Low Risk - Unweighted,blue,solid
+32.0,0.9791936759077011,Low Risk - Unweighted,blue,solid
+33.0,0.9791936759077011,Low Risk - Unweighted,blue,solid
+34.0,0.9782015850506514,Low Risk - Unweighted,blue,solid
+35.0,0.977204437665278,Low Risk - Unweighted,blue,solid
+36.0,0.9761928388685235,Low Risk - Unweighted,blue,solid
+37.0,0.9751674262226536,Low Risk - Unweighted,blue,solid
+38.0,0.9731013935399788,Low Risk - Unweighted,blue,solid
+39.0,0.9731013935399788,Low Risk - Unweighted,blue,solid
+40.0,0.9720448230801095,Low Risk - Unweighted,blue,solid
+41.0,0.9720448230801095,Low Risk - Unweighted,blue,solid
+42.0,0.9720448230801095,Low Risk - Unweighted,blue,solid
+43.0,0.9709611610699868,Low Risk - Unweighted,blue,solid
+44.0,0.9709611610699868,Low Risk - Unweighted,blue,solid
+45.0,0.9698540217757226,Low Risk - Unweighted,blue,solid
+46.0,0.9698540217757226,Low Risk - Unweighted,blue,solid
+47.0,0.9698540217757226,Low Risk - Unweighted,blue,solid
+48.0,0.9687049056361775,Low Risk - Unweighted,blue,solid
+49.0,0.9687049056361775,Low Risk - Unweighted,blue,solid
+50.0,0.9675119192991873,Low Risk - Unweighted,blue,solid
+51.0,0.9675119192991873,Low Risk - Unweighted,blue,solid
+52.0,0.966274691780902,Low Risk - Unweighted,blue,solid
+53.0,0.966274691780902,Low Risk - Unweighted,blue,solid
+54.0,0.9649741874850999,Low Risk - Unweighted,blue,solid
+55.0,0.9649741874850999,Low Risk - Unweighted,blue,solid
+56.0,0.9636150689111769,Low Risk - Unweighted,blue,solid
+57.0,0.9636150689111769,Low Risk - Unweighted,blue,solid
+58.0,0.9636150689111769,Low Risk - Unweighted,blue,solid
+59.0,0.9636150689111769,Low Risk - Unweighted,blue,solid
+60.0,0.9636150689111769,Low Risk - Unweighted,blue,solid
+61.0,0.9636150689111769,Low Risk - Unweighted,blue,solid
+62.0,0.9619622128753093,Low Risk - Unweighted,blue,solid
+63.0,0.9619622128753093,Low Risk - Unweighted,blue,solid
+64.0,0.9601368576326617,Low Risk - Unweighted,blue,solid
+65.0,0.9582204167990636,Low Risk - Unweighted,blue,solid
+66.0,0.9582204167990636,Low Risk - Unweighted,blue,solid
+67.0,0.9582204167990636,Low Risk - Unweighted,blue,solid
+68.0,0.9560475813868203,Low Risk - Unweighted,blue,solid
+69.0,0.9560475813868203,Low Risk - Unweighted,blue,solid
+70.0,0.9560475813868203,Low Risk - Unweighted,blue,solid
+71.0,0.9560475813868203,Low Risk - Unweighted,blue,solid
+72.0,0.9560475813868203,Low Risk - Unweighted,blue,solid
+73.0,0.9560475813868203,Low Risk - Unweighted,blue,solid
+74.0,0.9531765676289016,Low Risk - Unweighted,blue,solid
+75.0,0.9501506102713492,Low Risk - Unweighted,blue,solid
+76.0,0.9501506102713492,Low Risk - Unweighted,blue,solid
+77.0,0.9501506102713492,Low Risk - Unweighted,blue,solid
+78.0,0.9501506102713492,Low Risk - Unweighted,blue,solid
+79.0,0.9501506102713492,Low Risk - Unweighted,blue,solid
+80.0,0.9501506102713492,Low Risk - Unweighted,blue,solid
+81.0,0.9501506102713492,Low Risk - Unweighted,blue,solid
+82.0,0.9501506102713492,Low Risk - Unweighted,blue,solid
+83.0,0.9501506102713492,Low Risk - Unweighted,blue,solid
+84.0,0.9501506102713492,Low Risk - Unweighted,blue,solid
+85.0,0.9501506102713492,Low Risk - Unweighted,blue,solid
+86.0,0.9452529267132495,Low Risk - Unweighted,blue,solid
+87.0,0.9452529267132495,Low Risk - Unweighted,blue,solid
+88.0,0.9452529267132495,Low Risk - Unweighted,blue,solid
+89.0,0.9452529267132495,Low Risk - Unweighted,blue,solid
+90.0,0.9452529267132495,Low Risk - Unweighted,blue,solid
+91.0,0.9452529267132495,Low Risk - Unweighted,blue,solid
+92.0,0.9452529267132495,Low Risk - Unweighted,blue,solid
+93.0,0.9452529267132495,Low Risk - Unweighted,blue,solid
+94.0,0.9452529267132495,Low Risk - Unweighted,blue,solid
+95.0,0.9452529267132495,Low Risk - Unweighted,blue,solid
+96.0,0.9452529267132495,Low Risk - Unweighted,blue,solid
+97.0,0.9452529267132495,Low Risk - Unweighted,blue,solid
+98.0,0.9452529267132495,Low Risk - Unweighted,blue,solid
+99.0,0.9452529267132495,Low Risk - Unweighted,blue,solid
+100.0,0.9452529267132495,Low Risk - Unweighted,blue,solid
+101.0,0.9452529267132495,Low Risk - Unweighted,blue,solid
+102.0,0.9452529267132495,Low Risk - Unweighted,blue,solid
+103.0,0.9452529267132495,Low Risk - Unweighted,blue,solid
+104.0,0.9452529267132495,Low Risk - Unweighted,blue,solid
+105.0,0.9452529267132495,Low Risk - Unweighted,blue,solid
+107.0,0.9452529267132495,Low Risk - Unweighted,blue,solid
+108.0,0.9286695420340699,Low Risk - Unweighted,blue,solid
+109.0,0.9286695420340699,Low Risk - Unweighted,blue,solid
+110.0,0.9286695420340699,Low Risk - Unweighted,blue,solid
+111.0,0.9286695420340699,Low Risk - Unweighted,blue,solid
+112.0,0.9286695420340699,Low Risk - Unweighted,blue,solid
+113.0,0.9286695420340699,Low Risk - Unweighted,blue,solid
+114.0,0.9286695420340699,Low Risk - Unweighted,blue,solid
+115.0,0.9286695420340699,Low Risk - Unweighted,blue,solid
+116.0,0.9286695420340699,Low Risk - Unweighted,blue,solid
+117.0,0.9286695420340699,Low Risk - Unweighted,blue,solid
+118.0,0.9286695420340699,Low Risk - Unweighted,blue,solid
+119.0,0.9286695420340699,Low Risk - Unweighted,blue,solid
+120.0,0.9286695420340699,Low Risk - Unweighted,blue,solid
+121.0,0.9286695420340699,Low Risk - Unweighted,blue,solid
+122.0,0.9286695420340699,Low Risk - Unweighted,blue,solid
+123.0,0.9286695420340699,Low Risk - Unweighted,blue,solid
+124.0,0.9286695420340699,Low Risk - Unweighted,blue,solid
+125.0,0.9286695420340699,Low Risk - Unweighted,blue,solid
+128.0,0.9286695420340699,Low Risk - Unweighted,blue,solid
+129.0,0.9286695420340699,Low Risk - Unweighted,blue,solid
+131.0,0.9286695420340699,Low Risk - Unweighted,blue,solid
+132.0,0.9286695420340699,Low Risk - Unweighted,blue,solid
+0.0,1.0,High Risk - Unweighted,red,solid
+1.0,0.9990521327014217,High Risk - Unweighted,red,solid
+2.0,0.9990521327014217,High Risk - Unweighted,red,solid
+3.0,0.9942304525242918,High Risk - Unweighted,red,solid
+4.0,0.9922790679265991,High Risk - Unweighted,red,solid
+5.0,0.9883099516548929,High Risk - Unweighted,red,solid
+6.0,0.9853029234044217,High Risk - Unweighted,red,solid
+7.0,0.9801442693551838,High Risk - Unweighted,red,solid
+8.0,0.9738545735090537,High Risk - Unweighted,red,solid
+9.0,0.9695738940650582,High Risk - Unweighted,red,solid
+10.0,0.9684808006106448,High Risk - Unweighted,red,solid
+11.0,0.9640126077589235,High Risk - Unweighted,red,solid
+12.0,0.9571756389095697,High Risk - Unweighted,red,solid
+13.0,0.9548691915868962,High Risk - Unweighted,red,solid
+14.0,0.9501185985939263,High Risk - Unweighted,red,solid
+15.0,0.9441127920288569,High Risk - Unweighted,red,solid
+16.0,0.9416700681167505,High Risk - Unweighted,red,solid
+17.0,0.9354911306619156,High Risk - Unweighted,red,solid
+18.0,0.931724052283411,High Risk - Unweighted,red,solid
+19.0,0.929202471627705,High Risk - Unweighted,red,solid
+20.0,0.926653219304995,High Risk - Unweighted,red,solid
+21.0,0.9215051458644117,High Risk - Unweighted,red,solid
+22.0,0.9149789054546071,High Risk - Unweighted,red,solid
+23.0,0.9149789054546071,High Risk - Unweighted,red,solid
+24.0,0.9136412169963405,High Risk - Unweighted,red,solid
+25.0,0.910926087079561,High Risk - Unweighted,red,solid
+26.0,0.910926087079561,High Risk - Unweighted,red,solid
+27.0,0.9053461416763176,High Risk - Unweighted,red,solid
+28.0,0.8997315919604953,High Risk - Unweighted,red,solid
+29.0,0.8997315919604953,High Risk - Unweighted,red,solid
+30.0,0.8982943210468203,High Risk - Unweighted,red,solid
+31.0,0.896838414529726,High Risk - Unweighted,red,solid
+32.0,0.896838414529726,High Risk - Unweighted,red,solid
+33.0,0.8923986203983912,High Risk - Unweighted,red,solid
+34.0,0.8909063150131101,High Risk - Unweighted,red,solid
+35.0,0.8909063150131101,High Risk - Unweighted,red,solid
+36.0,0.8893885870488623,High Risk - Unweighted,red,solid
+37.0,0.8832229815927176,High Risk - Unweighted,red,solid
+38.0,0.8832229815927176,High Risk - Unweighted,red,solid
+39.0,0.8832229815927176,High Risk - Unweighted,red,solid
+40.0,0.8816401447081432,High Risk - Unweighted,red,solid
+41.0,0.8816401447081432,High Risk - Unweighted,red,solid
+42.0,0.8816401447081432,High Risk - Unweighted,red,solid
+43.0,0.8800044487068291,High Risk - Unweighted,red,solid
+44.0,0.8800044487068291,High Risk - Unweighted,red,solid
+45.0,0.8800044487068291,High Risk - Unweighted,red,solid
+46.0,0.8800044487068291,High Risk - Unweighted,red,solid
+47.0,0.8765466709123038,High Risk - Unweighted,red,solid
+48.0,0.8765466709123038,High Risk - Unweighted,red,solid
+49.0,0.872946889922931,High Risk - Unweighted,red,solid
+50.0,0.8711052298176077,High Risk - Unweighted,red,solid
+51.0,0.8655212219341608,High Risk - Unweighted,red,solid
+52.0,0.86361897749035,High Risk - Unweighted,red,solid
+53.0,0.86361897749035,High Risk - Unweighted,red,solid
+54.0,0.8597111993116605,High Risk - Unweighted,red,solid
+55.0,0.8576978241376286,High Risk - Unweighted,red,solid
+56.0,0.8556360505219128,High Risk - Unweighted,red,solid
+57.0,0.8514106873094589,High Risk - Unweighted,red,solid
+58.0,0.8514106873094589,High Risk - Unweighted,red,solid
+59.0,0.8491876829039516,High Risk - Unweighted,red,solid
+60.0,0.8491876829039516,High Risk - Unweighted,red,solid
+61.0,0.8491876829039516,High Risk - Unweighted,red,solid
+62.0,0.8491876829039516,High Risk - Unweighted,red,solid
+63.0,0.8465586188701936,High Risk - Unweighted,red,solid
+64.0,0.843818946964464,High Risk - Unweighted,red,solid
+65.0,0.843818946964464,High Risk - Unweighted,red,solid
+66.0,0.8409291560502025,High Risk - Unweighted,red,solid
+67.0,0.8379785274324824,High Risk - Unweighted,red,solid
+68.0,0.8379785274324824,High Risk - Unweighted,red,solid
+69.0,0.8348633656204656,High Risk - Unweighted,red,solid
+70.0,0.8348633656204656,High Risk - Unweighted,red,solid
+71.0,0.8348633656204656,High Risk - Unweighted,red,solid
+72.0,0.8315372167534518,High Risk - Unweighted,red,solid
+73.0,0.8280286209021716,High Risk - Unweighted,red,solid
+74.0,0.8244440814177469,High Risk - Unweighted,red,solid
+75.0,0.8244440814177469,High Risk - Unweighted,red,solid
+76.0,0.8244440814177469,High Risk - Unweighted,red,solid
+77.0,0.8244440814177469,High Risk - Unweighted,red,solid
+78.0,0.8244440814177469,High Risk - Unweighted,red,solid
+79.0,0.8201276202584917,High Risk - Unweighted,red,solid
+80.0,0.8156704049310001,High Risk - Unweighted,red,solid
+81.0,0.8156704049310001,High Risk - Unweighted,red,solid
+82.0,0.8156704049310001,High Risk - Unweighted,red,solid
+83.0,0.8156704049310001,High Risk - Unweighted,red,solid
+84.0,0.8106662920173126,High Risk - Unweighted,red,solid
+85.0,0.805567761878839,High Risk - Unweighted,red,solid
+86.0,0.805567761878839,High Risk - Unweighted,red,solid
+87.0,0.805567761878839,High Risk - Unweighted,red,solid
+88.0,0.8000501744687099,High Risk - Unweighted,red,solid
+89.0,0.8000501744687099,High Risk - Unweighted,red,solid
+90.0,0.7939891882984923,High Risk - Unweighted,red,solid
+91.0,0.7875339916456595,High Risk - Unweighted,red,solid
+92.0,0.7875339916456595,High Risk - Unweighted,red,solid
+93.0,0.7734708846519877,High Risk - Unweighted,red,solid
+94.0,0.7734708846519877,High Risk - Unweighted,red,solid
+95.0,0.7654969580060907,High Risk - Unweighted,red,solid
+96.0,0.7654969580060907,High Risk - Unweighted,red,solid
+97.0,0.7567981289378394,High Risk - Unweighted,red,solid
+98.0,0.7567981289378394,High Risk - Unweighted,red,solid
+99.0,0.7567981289378394,High Risk - Unweighted,red,solid
+100.0,0.7567981289378394,High Risk - Unweighted,red,solid
+101.0,0.7567981289378394,High Risk - Unweighted,red,solid
+102.0,0.7567981289378394,High Risk - Unweighted,red,solid
+103.0,0.7567981289378394,High Risk - Unweighted,red,solid
+104.0,0.7567981289378394,High Risk - Unweighted,red,solid
+105.0,0.7567981289378394,High Risk - Unweighted,red,solid
+106.0,0.7567981289378394,High Risk - Unweighted,red,solid
+107.0,0.7567981289378394,High Risk - Unweighted,red,solid
+108.0,0.7567981289378394,High Risk - Unweighted,red,solid
+110.0,0.7567981289378394,High Risk - Unweighted,red,solid
+111.0,0.7567981289378394,High Risk - Unweighted,red,solid
+112.0,0.7567981289378394,High Risk - Unweighted,red,solid
+113.0,0.7567981289378394,High Risk - Unweighted,red,solid
+114.0,0.7307016417330862,High Risk - Unweighted,red,solid
+115.0,0.7307016417330862,High Risk - Unweighted,red,solid
+116.0,0.7307016417330862,High Risk - Unweighted,red,solid
+117.0,0.7307016417330862,High Risk - Unweighted,red,solid
+118.0,0.7307016417330862,High Risk - Unweighted,red,solid
+120.0,0.7307016417330862,High Risk - Unweighted,red,solid
+121.0,0.7307016417330862,High Risk - Unweighted,red,solid
+122.0,0.7307016417330862,High Risk - Unweighted,red,solid
+123.0,0.7307016417330862,High Risk - Unweighted,red,solid
+124.0,0.7307016417330862,High Risk - Unweighted,red,solid
+125.0,0.7307016417330862,High Risk - Unweighted,red,solid
+126.0,0.7307016417330862,High Risk - Unweighted,red,solid
+127.0,0.7307016417330862,High Risk - Unweighted,red,solid
+131.0,0.7307016417330862,High Risk - Unweighted,red,solid
+0.0,1.0,Low Risk - ATE Weighted,blue,dash
+1.0,0.9995058723741299,Low Risk - ATE Weighted,blue,dash
+2.0,0.9995058723741299,Low Risk - ATE Weighted,blue,dash
+3.0,0.9973821121772658,Low Risk - ATE Weighted,blue,dash
+4.0,0.9951251452112447,Low Risk - ATE Weighted,blue,dash
+5.0,0.9929447080973788,Low Risk - ATE Weighted,blue,dash
+6.0,0.990423565742293,Low Risk - ATE Weighted,blue,dash
+7.0,0.990423565742293,Low Risk - ATE Weighted,blue,dash
+8.0,0.9860584886941466,Low Risk - ATE Weighted,blue,dash
+9.0,0.9852766091089509,Low Risk - ATE Weighted,blue,dash
+10.0,0.9852766091089509,Low Risk - ATE Weighted,blue,dash
+11.0,0.9852766091089509,Low Risk - ATE Weighted,blue,dash
+12.0,0.9832576280871975,Low Risk - ATE Weighted,blue,dash
+13.0,0.9832576280871975,Low Risk - ATE Weighted,blue,dash
+14.0,0.9826309934966413,Low Risk - ATE Weighted,blue,dash
+15.0,0.9826309934966413,Low Risk - ATE Weighted,blue,dash
+16.0,0.9826309934966413,Low Risk - ATE Weighted,blue,dash
+17.0,0.979012623551874,Low Risk - ATE Weighted,blue,dash
+18.0,0.9764496817263294,Low Risk - ATE Weighted,blue,dash
+19.0,0.9758187615892434,Low Risk - ATE Weighted,blue,dash
+20.0,0.975011361449824,Low Risk - ATE Weighted,blue,dash
+21.0,0.975011361449824,Low Risk - ATE Weighted,blue,dash
+22.0,0.975011361449824,Low Risk - ATE Weighted,blue,dash
+23.0,0.975011361449824,Low Risk - ATE Weighted,blue,dash
+24.0,0.9744611490443138,Low Risk - ATE Weighted,blue,dash
+25.0,0.9744611490443138,Low Risk - ATE Weighted,blue,dash
+26.0,0.9744611490443138,Low Risk - ATE Weighted,blue,dash
+27.0,0.9744611490443138,Low Risk - ATE Weighted,blue,dash
+28.0,0.9744611490443138,Low Risk - ATE Weighted,blue,dash
+29.0,0.9726434159990676,Low Risk - ATE Weighted,blue,dash
+30.0,0.9691641830143284,Low Risk - ATE Weighted,blue,dash
+31.0,0.9691641830143284,Low Risk - ATE Weighted,blue,dash
+32.0,0.9691641830143284,Low Risk - ATE Weighted,blue,dash
+33.0,0.9691641830143284,Low Risk - ATE Weighted,blue,dash
+34.0,0.9681018786706609,Low Risk - ATE Weighted,blue,dash
+35.0,0.9667693020841803,Low Risk - ATE Weighted,blue,dash
+36.0,0.9653550374118655,Low Risk - ATE Weighted,blue,dash
+37.0,0.9632251578225071,Low Risk - ATE Weighted,blue,dash
+38.0,0.9574365209281643,Low Risk - ATE Weighted,blue,dash
+39.0,0.9574365209281643,Low Risk - ATE Weighted,blue,dash
+40.0,0.9563138228374228,Low Risk - ATE Weighted,blue,dash
+41.0,0.9563138228374228,Low Risk - ATE Weighted,blue,dash
+42.0,0.9563138228374228,Low Risk - ATE Weighted,blue,dash
+43.0,0.9553891435723361,Low Risk - ATE Weighted,blue,dash
+44.0,0.9553891435723361,Low Risk - ATE Weighted,blue,dash
+45.0,0.9543508168458588,Low Risk - ATE Weighted,blue,dash
+46.0,0.9543508168458588,Low Risk - ATE Weighted,blue,dash
+47.0,0.9543508168458588,Low Risk - ATE Weighted,blue,dash
+48.0,0.9529291899122481,Low Risk - ATE Weighted,blue,dash
+49.0,0.9529291899122481,Low Risk - ATE Weighted,blue,dash
+50.0,0.9519169685045333,Low Risk - ATE Weighted,blue,dash
+51.0,0.9519169685045333,Low Risk - ATE Weighted,blue,dash
+52.0,0.95093028396786,Low Risk - ATE Weighted,blue,dash
+53.0,0.95093028396786,Low Risk - ATE Weighted,blue,dash
+54.0,0.9446207342022408,Low Risk - ATE Weighted,blue,dash
+55.0,0.9446207342022408,Low Risk - ATE Weighted,blue,dash
+56.0,0.943323326592527,Low Risk - ATE Weighted,blue,dash
+57.0,0.943323326592527,Low Risk - ATE Weighted,blue,dash
+58.0,0.943323326592527,Low Risk - ATE Weighted,blue,dash
+59.0,0.943323326592527,Low Risk - ATE Weighted,blue,dash
+60.0,0.943323326592527,Low Risk - ATE Weighted,blue,dash
+61.0,0.943323326592527,Low Risk - ATE Weighted,blue,dash
+62.0,0.9419921172081434,Low Risk - ATE Weighted,blue,dash
+63.0,0.9419921172081434,Low Risk - ATE Weighted,blue,dash
+64.0,0.9384958863990953,Low Risk - ATE Weighted,blue,dash
+65.0,0.9364437366856833,Low Risk - ATE Weighted,blue,dash
+66.0,0.9364437366856833,Low Risk - ATE Weighted,blue,dash
+67.0,0.9364437366856833,Low Risk - ATE Weighted,blue,dash
+68.0,0.9345389271130721,Low Risk - ATE Weighted,blue,dash
+69.0,0.9345389271130721,Low Risk - ATE Weighted,blue,dash
+70.0,0.9345389271130721,Low Risk - ATE Weighted,blue,dash
+71.0,0.9345389271130721,Low Risk - ATE Weighted,blue,dash
+72.0,0.9345389271130721,Low Risk - ATE Weighted,blue,dash
+73.0,0.9345389271130721,Low Risk - ATE Weighted,blue,dash
+74.0,0.9325743791337939,Low Risk - ATE Weighted,blue,dash
+75.0,0.9293919685409698,Low Risk - ATE Weighted,blue,dash
+76.0,0.9293919685409698,Low Risk - ATE Weighted,blue,dash
+77.0,0.9293919685409698,Low Risk - ATE Weighted,blue,dash
+78.0,0.9293919685409698,Low Risk - ATE Weighted,blue,dash
+79.0,0.9293919685409698,Low Risk - ATE Weighted,blue,dash
+80.0,0.9293919685409698,Low Risk - ATE Weighted,blue,dash
+81.0,0.9293919685409698,Low Risk - ATE Weighted,blue,dash
+82.0,0.9293919685409698,Low Risk - ATE Weighted,blue,dash
+83.0,0.9293919685409698,Low Risk - ATE Weighted,blue,dash
+84.0,0.9293919685409698,Low Risk - ATE Weighted,blue,dash
+85.0,0.9293919685409698,Low Risk - ATE Weighted,blue,dash
+86.0,0.9244656775649133,Low Risk - ATE Weighted,blue,dash
+87.0,0.9244656775649133,Low Risk - ATE Weighted,blue,dash
+88.0,0.9244656775649133,Low Risk - ATE Weighted,blue,dash
+89.0,0.9244656775649133,Low Risk - ATE Weighted,blue,dash
+90.0,0.9244656775649133,Low Risk - ATE Weighted,blue,dash
+91.0,0.9244656775649133,Low Risk - ATE Weighted,blue,dash
+92.0,0.9244656775649133,Low Risk - ATE Weighted,blue,dash
+93.0,0.9244656775649133,Low Risk - ATE Weighted,blue,dash
+94.0,0.9244656775649133,Low Risk - ATE Weighted,blue,dash
+95.0,0.9244656775649133,Low Risk - ATE Weighted,blue,dash
+96.0,0.9244656775649133,Low Risk - ATE Weighted,blue,dash
+97.0,0.9244656775649133,Low Risk - ATE Weighted,blue,dash
+98.0,0.9244656775649133,Low Risk - ATE Weighted,blue,dash
+99.0,0.9244656775649133,Low Risk - ATE Weighted,blue,dash
+100.0,0.9244656775649133,Low Risk - ATE Weighted,blue,dash
+101.0,0.9244656775649133,Low Risk - ATE Weighted,blue,dash
+102.0,0.9244656775649133,Low Risk - ATE Weighted,blue,dash
+103.0,0.9244656775649133,Low Risk - ATE Weighted,blue,dash
+104.0,0.9244656775649133,Low Risk - ATE Weighted,blue,dash
+105.0,0.9244656775649133,Low Risk - ATE Weighted,blue,dash
+107.0,0.9244656775649133,Low Risk - ATE Weighted,blue,dash
+108.0,0.8453132844953851,Low Risk - ATE Weighted,blue,dash
+109.0,0.8453132844953851,Low Risk - ATE Weighted,blue,dash
+110.0,0.8453132844953851,Low Risk - ATE Weighted,blue,dash
+111.0,0.8453132844953851,Low Risk - ATE Weighted,blue,dash
+112.0,0.8453132844953851,Low Risk - ATE Weighted,blue,dash
+113.0,0.8453132844953851,Low Risk - ATE Weighted,blue,dash
+114.0,0.8453132844953851,Low Risk - ATE Weighted,blue,dash
+115.0,0.8453132844953851,Low Risk - ATE Weighted,blue,dash
+116.0,0.8453132844953851,Low Risk - ATE Weighted,blue,dash
+117.0,0.8453132844953851,Low Risk - ATE Weighted,blue,dash
+118.0,0.8453132844953851,Low Risk - ATE Weighted,blue,dash
+119.0,0.8453132844953851,Low Risk - ATE Weighted,blue,dash
+120.0,0.8453132844953851,Low Risk - ATE Weighted,blue,dash
+121.0,0.8453132844953851,Low Risk - ATE Weighted,blue,dash
+122.0,0.8453132844953851,Low Risk - ATE Weighted,blue,dash
+123.0,0.8453132844953851,Low Risk - ATE Weighted,blue,dash
+124.0,0.8453132844953851,Low Risk - ATE Weighted,blue,dash
+125.0,0.8453132844953851,Low Risk - ATE Weighted,blue,dash
+128.0,0.8453132844953851,Low Risk - ATE Weighted,blue,dash
+129.0,0.8453132844953851,Low Risk - ATE Weighted,blue,dash
+131.0,0.8453132844953851,Low Risk - ATE Weighted,blue,dash
+132.0,0.8453132844953851,Low Risk - ATE Weighted,blue,dash
+0.0,1.0,High Risk - ATE Weighted,red,dash
+1.0,0.9993931214465871,High Risk - ATE Weighted,red,dash
+2.0,0.9993931214465871,High Risk - ATE Weighted,red,dash
+3.0,0.9953732237240122,High Risk - ATE Weighted,red,dash
+4.0,0.9936399760765886,High Risk - ATE Weighted,red,dash
+5.0,0.9901719312234752,High Risk - ATE Weighted,red,dash
+6.0,0.986798177207025,High Risk - ATE Weighted,red,dash
+7.0,0.9826006165163367,High Risk - ATE Weighted,red,dash
+8.0,0.9778553361843311,High Risk - ATE Weighted,red,dash
+9.0,0.9731642413143682,High Risk - ATE Weighted,red,dash
+10.0,0.9726582217501333,High Risk - ATE Weighted,red,dash
+11.0,0.9693781203072733,High Risk - ATE Weighted,red,dash
+12.0,0.9650866054783176,High Risk - ATE Weighted,red,dash
+13.0,0.9636047038157799,High Risk - ATE Weighted,red,dash
+14.0,0.960851048885581,High Risk - ATE Weighted,red,dash
+15.0,0.9571069312675952,High Risk - ATE Weighted,red,dash
+16.0,0.9553046253595875,High Risk - ATE Weighted,red,dash
+17.0,0.9513863731463621,High Risk - ATE Weighted,red,dash
+18.0,0.9482610932009797,High Risk - ATE Weighted,red,dash
+19.0,0.9463862313602612,High Risk - ATE Weighted,red,dash
+20.0,0.9443754038114218,High Risk - ATE Weighted,red,dash
+21.0,0.9413567993599793,High Risk - ATE Weighted,red,dash
+22.0,0.93740326629198,High Risk - ATE Weighted,red,dash
+23.0,0.93740326629198,High Risk - ATE Weighted,red,dash
+24.0,0.935655526617744,High Risk - ATE Weighted,red,dash
+25.0,0.9312690516129266,High Risk - ATE Weighted,red,dash
+26.0,0.9312690516129266,High Risk - ATE Weighted,red,dash
+27.0,0.9276261753312185,High Risk - ATE Weighted,red,dash
+28.0,0.9221457350161931,High Risk - ATE Weighted,red,dash
+29.0,0.9221457350161931,High Risk - ATE Weighted,red,dash
+30.0,0.9214879099102332,High Risk - ATE Weighted,red,dash
+31.0,0.9205727515268799,High Risk - ATE Weighted,red,dash
+32.0,0.9205727515268799,High Risk - ATE Weighted,red,dash
+33.0,0.9179439520186972,High Risk - ATE Weighted,red,dash
+34.0,0.9169553069793266,High Risk - ATE Weighted,red,dash
+35.0,0.9169553069793266,High Risk - ATE Weighted,red,dash
+36.0,0.915943597849969,High Risk - ATE Weighted,red,dash
+37.0,0.9109677760167935,High Risk - ATE Weighted,red,dash
+38.0,0.9109677760167935,High Risk - ATE Weighted,red,dash
+39.0,0.9109677760167935,High Risk - ATE Weighted,red,dash
+40.0,0.9101197104735721,High Risk - ATE Weighted,red,dash
+41.0,0.9101197104735721,High Risk - ATE Weighted,red,dash
+42.0,0.9101197104735721,High Risk - ATE Weighted,red,dash
+43.0,0.9090341748769389,High Risk - ATE Weighted,red,dash
+44.0,0.9090341748769389,High Risk - ATE Weighted,red,dash
+45.0,0.9090341748769389,High Risk - ATE Weighted,red,dash
+46.0,0.9090341748769389,High Risk - ATE Weighted,red,dash
+47.0,0.9048600798041665,High Risk - ATE Weighted,red,dash
+48.0,0.9048600798041665,High Risk - ATE Weighted,red,dash
+49.0,0.9022716972880798,High Risk - ATE Weighted,red,dash
+50.0,0.9013367405146084,High Risk - ATE Weighted,red,dash
+51.0,0.8968360454481091,High Risk - ATE Weighted,red,dash
+52.0,0.8951790424712684,High Risk - ATE Weighted,red,dash
+53.0,0.8951790424712684,High Risk - ATE Weighted,red,dash
+54.0,0.8925148080315982,High Risk - ATE Weighted,red,dash
+55.0,0.8904241089470379,High Risk - ATE Weighted,red,dash
+56.0,0.8891975126359472,High Risk - ATE Weighted,red,dash
+57.0,0.8865256179084217,High Risk - ATE Weighted,red,dash
+58.0,0.8865256179084217,High Risk - ATE Weighted,red,dash
+59.0,0.8832647153153479,High Risk - ATE Weighted,red,dash
+60.0,0.8832647153153479,High Risk - ATE Weighted,red,dash
+61.0,0.8832647153153479,High Risk - ATE Weighted,red,dash
+62.0,0.8832647153153479,High Risk - ATE Weighted,red,dash
+63.0,0.8816714703750236,High Risk - ATE Weighted,red,dash
+64.0,0.8792497288403379,High Risk - ATE Weighted,red,dash
+65.0,0.8792497288403379,High Risk - ATE Weighted,red,dash
+66.0,0.8748025201642609,High Risk - ATE Weighted,red,dash
+67.0,0.8734674128536747,High Risk - ATE Weighted,red,dash
+68.0,0.8734674128536747,High Risk - ATE Weighted,red,dash
+69.0,0.8703164071555258,High Risk - ATE Weighted,red,dash
+70.0,0.8703164071555258,High Risk - ATE Weighted,red,dash
+71.0,0.8703164071555258,High Risk - ATE Weighted,red,dash
+72.0,0.8672757363435359,High Risk - ATE Weighted,red,dash
+73.0,0.8645483501877401,High Risk - ATE Weighted,red,dash
+74.0,0.8614852449342422,High Risk - ATE Weighted,red,dash
+75.0,0.8614852449342422,High Risk - ATE Weighted,red,dash
+76.0,0.8614852449342422,High Risk - ATE Weighted,red,dash
+77.0,0.8614852449342422,High Risk - ATE Weighted,red,dash
+78.0,0.8614852449342422,High Risk - ATE Weighted,red,dash
+79.0,0.8593687962113881,High Risk - ATE Weighted,red,dash
+80.0,0.8574476629667162,High Risk - ATE Weighted,red,dash
+81.0,0.8574476629667162,High Risk - ATE Weighted,red,dash
+82.0,0.8574476629667162,High Risk - ATE Weighted,red,dash
+83.0,0.8574476629667162,High Risk - ATE Weighted,red,dash
+84.0,0.8514921847051111,High Risk - ATE Weighted,red,dash
+85.0,0.8469314321480865,High Risk - ATE Weighted,red,dash
+86.0,0.8469314321480865,High Risk - ATE Weighted,red,dash
+87.0,0.8469314321480865,High Risk - ATE Weighted,red,dash
+88.0,0.8437022823361704,High Risk - ATE Weighted,red,dash
+89.0,0.8437022823361704,High Risk - ATE Weighted,red,dash
+90.0,0.837630638303625,High Risk - ATE Weighted,red,dash
+91.0,0.8337446432948404,High Risk - ATE Weighted,red,dash
+92.0,0.8337446432948404,High Risk - ATE Weighted,red,dash
+93.0,0.8270461137228763,High Risk - ATE Weighted,red,dash
+94.0,0.8270461137228763,High Risk - ATE Weighted,red,dash
+95.0,0.8204254440993635,High Risk - ATE Weighted,red,dash
+96.0,0.8204254440993635,High Risk - ATE Weighted,red,dash
+97.0,0.8136200666453789,High Risk - ATE Weighted,red,dash
+98.0,0.8136200666453789,High Risk - ATE Weighted,red,dash
+99.0,0.8136200666453789,High Risk - ATE Weighted,red,dash
+100.0,0.8136200666453789,High Risk - ATE Weighted,red,dash
+101.0,0.8136200666453789,High Risk - ATE Weighted,red,dash
+102.0,0.8136200666453789,High Risk - ATE Weighted,red,dash
+103.0,0.8136200666453789,High Risk - ATE Weighted,red,dash
+104.0,0.8136200666453789,High Risk - ATE Weighted,red,dash
+105.0,0.8136200666453789,High Risk - ATE Weighted,red,dash
+106.0,0.8136200666453789,High Risk - ATE Weighted,red,dash
+107.0,0.8136200666453789,High Risk - ATE Weighted,red,dash
+108.0,0.8136200666453789,High Risk - ATE Weighted,red,dash
+110.0,0.8136200666453789,High Risk - ATE Weighted,red,dash
+111.0,0.8136200666453789,High Risk - ATE Weighted,red,dash
+112.0,0.8136200666453789,High Risk - ATE Weighted,red,dash
+113.0,0.8136200666453789,High Risk - ATE Weighted,red,dash
+114.0,0.7928872019201324,High Risk - ATE Weighted,red,dash
+115.0,0.7928872019201324,High Risk - ATE Weighted,red,dash
+116.0,0.7928872019201324,High Risk - ATE Weighted,red,dash
+117.0,0.7928872019201324,High Risk - ATE Weighted,red,dash
+118.0,0.7928872019201324,High Risk - ATE Weighted,red,dash
+120.0,0.7928872019201324,High Risk - ATE Weighted,red,dash
+121.0,0.7928872019201324,High Risk - ATE Weighted,red,dash
+122.0,0.7928872019201324,High Risk - ATE Weighted,red,dash
+123.0,0.7928872019201324,High Risk - ATE Weighted,red,dash
+124.0,0.7928872019201324,High Risk - ATE Weighted,red,dash
+125.0,0.7928872019201324,High Risk - ATE Weighted,red,dash
+126.0,0.7928872019201324,High Risk - ATE Weighted,red,dash
+127.0,0.7928872019201324,High Risk - ATE Weighted,red,dash
+131.0,0.7928872019201324,High Risk - ATE Weighted,red,dash
+0.0,1.0,Low Risk - ATT Weighted,blue,dot
+1.0,0.9997951166334508,Low Risk - ATT Weighted,blue,dot
+2.0,0.9997951166334508,Low Risk - ATT Weighted,blue,dot
+3.0,0.9977242378696782,Low Risk - ATT Weighted,blue,dot
+4.0,0.99534697398015,Low Risk - ATT Weighted,blue,dot
+5.0,0.9921856842533419,Low Risk - ATT Weighted,blue,dot
+6.0,0.9882455977855,Low Risk - ATT Weighted,blue,dot
+7.0,0.9882455977855,Low Risk - ATT Weighted,blue,dot
+8.0,0.9790048706248891,Low Risk - ATT Weighted,blue,dot
+9.0,0.9781950398788003,Low Risk - ATT Weighted,blue,dot
+10.0,0.9781950398788003,Low Risk - ATT Weighted,blue,dot
+11.0,0.9781950398788003,Low Risk - ATT Weighted,blue,dot
+12.0,0.9755729099750049,Low Risk - ATT Weighted,blue,dot
+13.0,0.9755729099750049,Low Risk - ATT Weighted,blue,dot
+14.0,0.9752022083846229,Low Risk - ATT Weighted,blue,dot
+15.0,0.9752022083846229,Low Risk - ATT Weighted,blue,dot
+16.0,0.9752022083846229,Low Risk - ATT Weighted,blue,dot
+17.0,0.9688683659209945,Low Risk - ATT Weighted,blue,dot
+18.0,0.9638997227824503,Low Risk - ATT Weighted,blue,dot
+19.0,0.963577208776963,Low Risk - ATT Weighted,blue,dot
+20.0,0.9628388304703971,Low Risk - ATT Weighted,blue,dot
+21.0,0.9628388304703971,Low Risk - ATT Weighted,blue,dot
+22.0,0.9628388304703971,Low Risk - ATT Weighted,blue,dot
+23.0,0.9628388304703971,Low Risk - ATT Weighted,blue,dot
+24.0,0.962774303539416,Low Risk - ATT Weighted,blue,dot
+25.0,0.962774303539416,Low Risk - ATT Weighted,blue,dot
+26.0,0.962774303539416,Low Risk - ATT Weighted,blue,dot
+27.0,0.962774303539416,Low Risk - ATT Weighted,blue,dot
+28.0,0.962774303539416,Low Risk - ATT Weighted,blue,dot
+29.0,0.9610597766687388,Low Risk - ATT Weighted,blue,dot
+30.0,0.9554014985040618,Low Risk - ATT Weighted,blue,dot
+31.0,0.9554014985040618,Low Risk - ATT Weighted,blue,dot
+32.0,0.9554014985040618,Low Risk - ATT Weighted,blue,dot
+33.0,0.9554014985040618,Low Risk - ATT Weighted,blue,dot
+34.0,0.9542422656950866,Low Risk - ATT Weighted,blue,dot
+35.0,0.9524487070126795,Low Risk - ATT Weighted,blue,dot
+36.0,0.9504739143581947,Low Risk - ATT Weighted,blue,dot
+37.0,0.946790482181546,Low Risk - ATT Weighted,blue,dot
+38.0,0.9357738697803387,Low Risk - ATT Weighted,blue,dot
+39.0,0.9357738697803387,Low Risk - ATT Weighted,blue,dot
+40.0,0.9345592159511598,Low Risk - ATT Weighted,blue,dot
+41.0,0.9345592159511598,Low Risk - ATT Weighted,blue,dot
+42.0,0.9345592159511598,Low Risk - ATT Weighted,blue,dot
+43.0,0.9338555927737954,Low Risk - ATT Weighted,blue,dot
+44.0,0.9338555927737954,Low Risk - ATT Weighted,blue,dot
+45.0,0.9329134494595078,Low Risk - ATT Weighted,blue,dot
+46.0,0.9329134494595078,Low Risk - ATT Weighted,blue,dot
+47.0,0.9329134494595078,Low Risk - ATT Weighted,blue,dot
+48.0,0.9311052953108965,Low Risk - ATT Weighted,blue,dot
+49.0,0.9311052953108965,Low Risk - ATT Weighted,blue,dot
+50.0,0.9303459129412883,Low Risk - ATT Weighted,blue,dot
+51.0,0.9303459129412883,Low Risk - ATT Weighted,blue,dot
+52.0,0.9297149187988024,Low Risk - ATT Weighted,blue,dot
+53.0,0.9297149187988024,Low Risk - ATT Weighted,blue,dot
+54.0,0.9163534149301323,Low Risk - ATT Weighted,blue,dot
+55.0,0.9163534149301323,Low Risk - ATT Weighted,blue,dot
+56.0,0.9151426512919777,Low Risk - ATT Weighted,blue,dot
+57.0,0.9151426512919777,Low Risk - ATT Weighted,blue,dot
+58.0,0.9151426512919777,Low Risk - ATT Weighted,blue,dot
+59.0,0.9151426512919777,Low Risk - ATT Weighted,blue,dot
+60.0,0.9151426512919777,Low Risk - ATT Weighted,blue,dot
+61.0,0.9151426512919777,Low Risk - ATT Weighted,blue,dot
+62.0,0.9142739244773991,Low Risk - ATT Weighted,blue,dot
+63.0,0.9142739244773991,Low Risk - ATT Weighted,blue,dot
+64.0,0.9083637363773226,Low Risk - ATT Weighted,blue,dot
+65.0,0.9061180365362265,Low Risk - ATT Weighted,blue,dot
+66.0,0.9061180365362265,Low Risk - ATT Weighted,blue,dot
+67.0,0.9061180365362265,Low Risk - ATT Weighted,blue,dot
+68.0,0.904588152544366,Low Risk - ATT Weighted,blue,dot
+69.0,0.904588152544366,Low Risk - ATT Weighted,blue,dot
+70.0,0.904588152544366,Low Risk - ATT Weighted,blue,dot
+71.0,0.904588152544366,Low Risk - ATT Weighted,blue,dot
+72.0,0.904588152544366,Low Risk - ATT Weighted,blue,dot
+73.0,0.904588152544366,Low Risk - ATT Weighted,blue,dot
+74.0,0.9038462283916113,Low Risk - ATT Weighted,blue,dot
+75.0,0.9004557103339624,Low Risk - ATT Weighted,blue,dot
+76.0,0.9004557103339624,Low Risk - ATT Weighted,blue,dot
+77.0,0.9004557103339624,Low Risk - ATT Weighted,blue,dot
+78.0,0.9004557103339624,Low Risk - ATT Weighted,blue,dot
+79.0,0.9004557103339624,Low Risk - ATT Weighted,blue,dot
+80.0,0.9004557103339624,Low Risk - ATT Weighted,blue,dot
+81.0,0.9004557103339624,Low Risk - ATT Weighted,blue,dot
+82.0,0.9004557103339624,Low Risk - ATT Weighted,blue,dot
+83.0,0.9004557103339624,Low Risk - ATT Weighted,blue,dot
+84.0,0.9004557103339624,Low Risk - ATT Weighted,blue,dot
+85.0,0.9004557103339624,Low Risk - ATT Weighted,blue,dot
+86.0,0.8955012289062398,Low Risk - ATT Weighted,blue,dot
+87.0,0.8955012289062398,Low Risk - ATT Weighted,blue,dot
+88.0,0.8955012289062398,Low Risk - ATT Weighted,blue,dot
+89.0,0.8955012289062398,Low Risk - ATT Weighted,blue,dot
+90.0,0.8955012289062398,Low Risk - ATT Weighted,blue,dot
+91.0,0.8955012289062398,Low Risk - ATT Weighted,blue,dot
+92.0,0.8955012289062398,Low Risk - ATT Weighted,blue,dot
+93.0,0.8955012289062398,Low Risk - ATT Weighted,blue,dot
+94.0,0.8955012289062398,Low Risk - ATT Weighted,blue,dot
+95.0,0.8955012289062398,Low Risk - ATT Weighted,blue,dot
+96.0,0.8955012289062398,Low Risk - ATT Weighted,blue,dot
+97.0,0.8955012289062398,Low Risk - ATT Weighted,blue,dot
+98.0,0.8955012289062398,Low Risk - ATT Weighted,blue,dot
+99.0,0.8955012289062398,Low Risk - ATT Weighted,blue,dot
+100.0,0.8955012289062398,Low Risk - ATT Weighted,blue,dot
+101.0,0.8955012289062398,Low Risk - ATT Weighted,blue,dot
+102.0,0.8955012289062398,Low Risk - ATT Weighted,blue,dot
+103.0,0.8955012289062398,Low Risk - ATT Weighted,blue,dot
+104.0,0.8955012289062398,Low Risk - ATT Weighted,blue,dot
+105.0,0.8955012289062398,Low Risk - ATT Weighted,blue,dot
+107.0,0.8955012289062398,Low Risk - ATT Weighted,blue,dot
+108.0,0.746922910485534,Low Risk - ATT Weighted,blue,dot
+109.0,0.746922910485534,Low Risk - ATT Weighted,blue,dot
+110.0,0.746922910485534,Low Risk - ATT Weighted,blue,dot
+111.0,0.746922910485534,Low Risk - ATT Weighted,blue,dot
+112.0,0.746922910485534,Low Risk - ATT Weighted,blue,dot
+113.0,0.746922910485534,Low Risk - ATT Weighted,blue,dot
+114.0,0.746922910485534,Low Risk - ATT Weighted,blue,dot
+115.0,0.746922910485534,Low Risk - ATT Weighted,blue,dot
+116.0,0.746922910485534,Low Risk - ATT Weighted,blue,dot
+117.0,0.746922910485534,Low Risk - ATT Weighted,blue,dot
+118.0,0.746922910485534,Low Risk - ATT Weighted,blue,dot
+119.0,0.746922910485534,Low Risk - ATT Weighted,blue,dot
+120.0,0.746922910485534,Low Risk - ATT Weighted,blue,dot
+121.0,0.746922910485534,Low Risk - ATT Weighted,blue,dot
+122.0,0.746922910485534,Low Risk - ATT Weighted,blue,dot
+123.0,0.746922910485534,Low Risk - ATT Weighted,blue,dot
+124.0,0.746922910485534,Low Risk - ATT Weighted,blue,dot
+125.0,0.746922910485534,Low Risk - ATT Weighted,blue,dot
+128.0,0.746922910485534,Low Risk - ATT Weighted,blue,dot
+129.0,0.746922910485534,Low Risk - ATT Weighted,blue,dot
+131.0,0.746922910485534,Low Risk - ATT Weighted,blue,dot
+132.0,0.746922910485534,Low Risk - ATT Weighted,blue,dot
+0.0,1.0,High Risk - ATT Weighted,red,dot
+1.6,0.9990521327014217,High Risk - ATT Weighted,red,dot
+2.6,0.9990521327014217,High Risk - ATT Weighted,red,dot
+3.6,0.9942304525242918,High Risk - ATT Weighted,red,dot
+4.6,0.9922790679265991,High Risk - ATT Weighted,red,dot
+5.6,0.9883099516548929,High Risk - ATT Weighted,red,dot
+6.6,0.9853029234044217,High Risk - ATT Weighted,red,dot
+7.6,0.9801442693551838,High Risk - ATT Weighted,red,dot
+8.6,0.9738545735090537,High Risk - ATT Weighted,red,dot
+9.6,0.9695738940650582,High Risk - ATT Weighted,red,dot
+10.6,0.9684808006106448,High Risk - ATT Weighted,red,dot
+11.6,0.9640126077589235,High Risk - ATT Weighted,red,dot
+12.6,0.9571756389095697,High Risk - ATT Weighted,red,dot
+13.6,0.9548691915868962,High Risk - ATT Weighted,red,dot
+14.6,0.9501185985939263,High Risk - ATT Weighted,red,dot
+15.6,0.9441127920288569,High Risk - ATT Weighted,red,dot
+16.6,0.9416700681167505,High Risk - ATT Weighted,red,dot
+17.6,0.9354911306619156,High Risk - ATT Weighted,red,dot
+18.6,0.931724052283411,High Risk - ATT Weighted,red,dot
+19.6,0.929202471627705,High Risk - ATT Weighted,red,dot
+20.6,0.926653219304995,High Risk - ATT Weighted,red,dot
+21.6,0.9215051458644117,High Risk - ATT Weighted,red,dot
+22.6,0.9149789054546071,High Risk - ATT Weighted,red,dot
+23.6,0.9149789054546071,High Risk - ATT Weighted,red,dot
+24.6,0.9136412169963405,High Risk - ATT Weighted,red,dot
+25.6,0.910926087079561,High Risk - ATT Weighted,red,dot
+26.6,0.910926087079561,High Risk - ATT Weighted,red,dot
+27.6,0.9053461416763176,High Risk - ATT Weighted,red,dot
+28.6,0.8997315919604953,High Risk - ATT Weighted,red,dot
+29.6,0.8997315919604953,High Risk - ATT Weighted,red,dot
+30.6,0.8982943210468203,High Risk - ATT Weighted,red,dot
+31.6,0.896838414529726,High Risk - ATT Weighted,red,dot
+32.6,0.896838414529726,High Risk - ATT Weighted,red,dot
+33.6,0.8923986203983912,High Risk - ATT Weighted,red,dot
+34.6,0.8909063150131101,High Risk - ATT Weighted,red,dot
+35.6,0.8909063150131101,High Risk - ATT Weighted,red,dot
+36.6,0.8893885870488623,High Risk - ATT Weighted,red,dot
+37.6,0.8832229815927176,High Risk - ATT Weighted,red,dot
+38.6,0.8832229815927176,High Risk - ATT Weighted,red,dot
+39.6,0.8832229815927176,High Risk - ATT Weighted,red,dot
+40.6,0.8816401447081432,High Risk - ATT Weighted,red,dot
+41.6,0.8816401447081432,High Risk - ATT Weighted,red,dot
+42.6,0.8816401447081432,High Risk - ATT Weighted,red,dot
+43.6,0.8800044487068291,High Risk - ATT Weighted,red,dot
+44.6,0.8800044487068291,High Risk - ATT Weighted,red,dot
+45.6,0.8800044487068291,High Risk - ATT Weighted,red,dot
+46.6,0.8800044487068291,High Risk - ATT Weighted,red,dot
+47.6,0.8765466709123038,High Risk - ATT Weighted,red,dot
+48.6,0.8765466709123038,High Risk - ATT Weighted,red,dot
+49.6,0.872946889922931,High Risk - ATT Weighted,red,dot
+50.6,0.8711052298176077,High Risk - ATT Weighted,red,dot
+51.6,0.8655212219341608,High Risk - ATT Weighted,red,dot
+52.6,0.86361897749035,High Risk - ATT Weighted,red,dot
+53.6,0.86361897749035,High Risk - ATT Weighted,red,dot
+54.6,0.8597111993116605,High Risk - ATT Weighted,red,dot
+55.6,0.8576978241376286,High Risk - ATT Weighted,red,dot
+56.6,0.8556360505219128,High Risk - ATT Weighted,red,dot
+57.6,0.8514106873094589,High Risk - ATT Weighted,red,dot
+58.6,0.8514106873094589,High Risk - ATT Weighted,red,dot
+59.6,0.8491876829039516,High Risk - ATT Weighted,red,dot
+60.6,0.8491876829039516,High Risk - ATT Weighted,red,dot
+61.6,0.8491876829039516,High Risk - ATT Weighted,red,dot
+62.6,0.8491876829039516,High Risk - ATT Weighted,red,dot
+63.6,0.8465586188701936,High Risk - ATT Weighted,red,dot
+64.6,0.843818946964464,High Risk - ATT Weighted,red,dot
+65.6,0.843818946964464,High Risk - ATT Weighted,red,dot
+66.6,0.8409291560502025,High Risk - ATT Weighted,red,dot
+67.6,0.8379785274324824,High Risk - ATT Weighted,red,dot
+68.6,0.8379785274324824,High Risk - ATT Weighted,red,dot
+69.6,0.8348633656204656,High Risk - ATT Weighted,red,dot
+70.6,0.8348633656204656,High Risk - ATT Weighted,red,dot
+71.6,0.8348633656204656,High Risk - ATT Weighted,red,dot
+72.6,0.8315372167534518,High Risk - ATT Weighted,red,dot
+73.6,0.8280286209021716,High Risk - ATT Weighted,red,dot
+74.6,0.8244440814177469,High Risk - ATT Weighted,red,dot
+75.6,0.8244440814177469,High Risk - ATT Weighted,red,dot
+76.6,0.8244440814177469,High Risk - ATT Weighted,red,dot
+77.6,0.8244440814177469,High Risk - ATT Weighted,red,dot
+78.6,0.8244440814177469,High Risk - ATT Weighted,red,dot
+79.6,0.8201276202584917,High Risk - ATT Weighted,red,dot
+80.6,0.8156704049310001,High Risk - ATT Weighted,red,dot
+81.6,0.8156704049310001,High Risk - ATT Weighted,red,dot
+82.6,0.8156704049310001,High Risk - ATT Weighted,red,dot
+83.6,0.8156704049310001,High Risk - ATT Weighted,red,dot
+84.6,0.8106662920173126,High Risk - ATT Weighted,red,dot
+85.6,0.805567761878839,High Risk - ATT Weighted,red,dot
+86.6,0.805567761878839,High Risk - ATT Weighted,red,dot
+87.6,0.805567761878839,High Risk - ATT Weighted,red,dot
+88.6,0.8000501744687099,High Risk - ATT Weighted,red,dot
+89.6,0.8000501744687099,High Risk - ATT Weighted,red,dot
+90.6,0.7939891882984923,High Risk - ATT Weighted,red,dot
+91.6,0.7875339916456595,High Risk - ATT Weighted,red,dot
+92.6,0.7875339916456595,High Risk - ATT Weighted,red,dot
+93.6,0.7734708846519877,High Risk - ATT Weighted,red,dot
+94.6,0.7734708846519877,High Risk - ATT Weighted,red,dot
+95.6,0.7654969580060907,High Risk - ATT Weighted,red,dot
+96.6,0.7654969580060907,High Risk - ATT Weighted,red,dot
+97.6,0.7567981289378394,High Risk - ATT Weighted,red,dot
+98.6,0.7567981289378394,High Risk - ATT Weighted,red,dot
+99.6,0.7567981289378394,High Risk - ATT Weighted,red,dot
+100.6,0.7567981289378394,High Risk - ATT Weighted,red,dot
+101.6,0.7567981289378394,High Risk - ATT Weighted,red,dot
+102.6,0.7567981289378394,High Risk - ATT Weighted,red,dot
+103.6,0.7567981289378394,High Risk - ATT Weighted,red,dot
+104.6,0.7567981289378394,High Risk - ATT Weighted,red,dot
+105.6,0.7567981289378394,High Risk - ATT Weighted,red,dot
+106.6,0.7567981289378394,High Risk - ATT Weighted,red,dot
+107.6,0.7567981289378394,High Risk - ATT Weighted,red,dot
+108.6,0.7567981289378394,High Risk - ATT Weighted,red,dot
+110.6,0.7567981289378394,High Risk - ATT Weighted,red,dot
+111.6,0.7567981289378394,High Risk - ATT Weighted,red,dot
+112.6,0.7567981289378394,High Risk - ATT Weighted,red,dot
+113.6,0.7567981289378394,High Risk - ATT Weighted,red,dot
+114.6,0.7307016417330862,High Risk - ATT Weighted,red,dot
+115.6,0.7307016417330862,High Risk - ATT Weighted,red,dot
+116.6,0.7307016417330862,High Risk - ATT Weighted,red,dot
+117.6,0.7307016417330862,High Risk - ATT Weighted,red,dot
+118.6,0.7307016417330862,High Risk - ATT Weighted,red,dot
+120.6,0.7307016417330862,High Risk - ATT Weighted,red,dot
+121.6,0.7307016417330862,High Risk - ATT Weighted,red,dot
+122.6,0.7307016417330862,High Risk - ATT Weighted,red,dot
+123.6,0.7307016417330862,High Risk - ATT Weighted,red,dot
+124.6,0.7307016417330862,High Risk - ATT Weighted,red,dot
+125.6,0.7307016417330862,High Risk - ATT Weighted,red,dot
+126.6,0.7307016417330862,High Risk - ATT Weighted,red,dot
+127.6,0.7307016417330862,High Risk - ATT Weighted,red,dot
+131.6,0.7307016417330862,High Risk - ATT Weighted,red,dot
