@@ -44,7 +44,7 @@ def create_figure(selected_time=None):
         fig.add_vline(x=selected_time, line_dash="dash", line_color="gray")
     # Update layout to show vertical line on hover
     fig.update_layout(
-        title='Kaplan-Meier Survival Curves for V60cc(Gy)',
+        title='Kaplan-Meier Survival Curves for binarized V60cc(Gy): High Risk Groups > 59.2',
         xaxis_title='Time (Months)',
         yaxis_title='Survival Probability',
         hovermode='x',
