@@ -7,7 +7,7 @@ import plotly.graph_objects as go
 st.set_page_config(layout="wide")
 
 # Load the survival data
-survival_data = pd.read_csv('survival_data.csv')
+survival_data = pd.read_csv('survival_data_v60.csv')
 
 # Sidebar: Group selection
 groups = survival_data['group'].unique()
