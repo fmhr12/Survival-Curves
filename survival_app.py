@@ -94,5 +94,5 @@ for group in selected_groups:
 # Display the probabilities in a table
 prob_df = pd.DataFrame(probabilities)
 prob_df.set_index('Group', inplace=True)
-st.write(f'### Survival Probabilities at Month = {selected_time:.0f}')
+st.write(f'#### Survival probabilities {selected_time:.0f} months after radiotherapy')
 st.table(prob_df)
