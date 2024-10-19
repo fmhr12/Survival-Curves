@@ -108,7 +108,7 @@ def process_dataset(data, plot_title, dataset_id):
     # Display the probabilities in a table with unique key
     prob_df = pd.DataFrame(probabilities)
     prob_df.set_index('Group', inplace=True)
-    st.write(f'#### Survival Probabilities at {selected_time:.0f} Months After Radiotherapy')
+    st.write(f'#### Survival Probabilities {selected_time:.0f} Months After Radiotherapy')
     st.table(prob_df)
     st.markdown("---")  # Add a horizontal separator
 
@@ -119,13 +119,13 @@ survival_data_D10 = load_data('survival_data_D10.csv')
 # Process and display the first dataset
 process_dataset(
     data=survival_data_v60,
-    plot_title='Kaplan-Meier Survival Curves for binarized V60Gy(cc): High Risk Groups > 12.6',
+    plot_title='Kaplan-Meier Survival Curves for Binarized V60Gy(cc): High Risk Group > 12.6',
     dataset_id='V60'
 )
 
 # Process and display the second dataset
 process_dataset(
     data=survival_data_D10,
-    plot_title='Kaplan-Meier Survival Curves for binarized D10cc(Gy): High Risk Groups > 59.2',
+    plot_title='Kaplan-Meier Survival Curves for Binarized D10cc(Gy): High Risk Groups > 59.2',
     dataset_id='D10'
 )
